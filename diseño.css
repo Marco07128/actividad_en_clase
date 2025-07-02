@@ -40,4 +40,5 @@ body{
 button:disabled{
     background-color: #999;
     color: white;
+    cursor: not-allowed;
 }
