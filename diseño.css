@@ -38,5 +38,6 @@ body{
 }
 
 button:disabled{
+    background-color: #999;
     
 }
