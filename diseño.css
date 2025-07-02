@@ -31,3 +31,7 @@ body{
 .producto:nth-child(2){
     font-style: italic;
 }
+
+.producto:not(.destacado):hover{
+    
+}
