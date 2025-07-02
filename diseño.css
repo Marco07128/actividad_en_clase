@@ -34,4 +34,5 @@ body{
 
 .producto:not(.destacado):hover{
     cursor: pointer;
+    background-color: #e6f7ff;
 }
