@@ -54,7 +54,6 @@ input[type="checkbox"]:disabled + label{
 }
 
 /*Input enfocado*/
-
 input:focus{
-    
+    border: 2px solid blue;
 }
