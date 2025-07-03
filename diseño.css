@@ -45,5 +45,5 @@ button:disabled{
 
 /*checkbox marcado*/
 input[type="checkbox"]:checked{
-    
+    outline: 2px solid green;
 }
