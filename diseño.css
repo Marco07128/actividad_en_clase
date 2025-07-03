@@ -50,5 +50,5 @@ input[type="checkbox"]:checked{
 
 /* Checkbox desactivado*/
 input[type="checkbox"]:disabled + label{
-    
+    color: #888;
 }
