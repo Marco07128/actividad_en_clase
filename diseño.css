@@ -47,3 +47,5 @@ button:disabled{
 input[type="checkbox"]:checked{
     outline: 2px solid green;
 }
+
+/* Checkbox desactivado*/
