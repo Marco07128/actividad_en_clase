@@ -55,3 +55,6 @@ input[type="checkbox"]:disabled + label{
 
 /*Input enfocado*/
 
+input:focus{
+    
+}
