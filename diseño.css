@@ -60,3 +60,6 @@ input:focus{
 }
 
 /* Inputs del formulario */
+.formulario input:first-child{
+    
+}
